@@ -1,0 +1,21 @@
+{
+  "name": "aydabot",
+  "version": "0.0.0",
+  "description": "Ayda Favaris, but a bot!",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Ayda",
+    "Favaris",
+    "FFXIV"
+  ],
+  "author": "Half",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-opus": "^0.3.2"
+  }
+}
